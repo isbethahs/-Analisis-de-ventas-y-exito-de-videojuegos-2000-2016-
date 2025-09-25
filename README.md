@@ -43,7 +43,7 @@ El género Acción lidera en ventas globales, seguido por Deportes y Shooter. Ro
 
 Las reseñas de usuarios y críticos muestran correlación positiva con las ventas, especialmente en plataformas como PS4.
 
-En cuanto a regiones:
+* En cuanto a regiones:
 
 Norteamérica y Europa comparten plataformas y géneros populares (Acción, Deportes, Shooter).
 
